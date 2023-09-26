@@ -1,0 +1,1 @@
+# ClearCapture-project: an audio/visual file sharing platform dedicated to providing secure and lossless file transmission from service providers(photographers, videgraphers or other content creatore to clients.
